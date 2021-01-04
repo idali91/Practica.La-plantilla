@@ -1,0 +1,12 @@
+/* posicionamiento imagenes */
+/* tipo imagen */
+img.imagen{
+    height: 100px;
+    width: 100px;
+}
+/* tipo h1 */
+h1.estilo{
+    background-color: black;
+    color: burlywood;
+    text-align: center;
+}
